@@ -14,4 +14,3 @@ pip install -r requirements.txt
 ## Run stramlit
 ```
 streamlit run proyek_analisis_Data.py
-``
