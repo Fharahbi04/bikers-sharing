@@ -2,8 +2,8 @@ import streamlit as st
 import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
-day_df = pd.read_csv("day_df.csv")
-hours_df = pd.read_csv("hours_df.csv")
+day_df = pd.read_csv("Dasborad/day_df.csv")
+hours_df = pd.read_csv("Dasborad/hours_df.csv")
 
 with st.sidebar:
         st.image("BIKERS.png",width=300)
